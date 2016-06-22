@@ -1,6 +1,6 @@
 package br.com.hamamoto.challenge3.business;
 
-import br.com.hamamoto.challenge3.exception.StreamWitCharRepetitionException;
+import br.com.hamamoto.challenge3.infraestructure.exception.StreamWitCharRepetitionException;
 import br.com.hamamoto.challenge3.model.CharArrayStream;
 import org.junit.Before;
 import org.junit.Test;
